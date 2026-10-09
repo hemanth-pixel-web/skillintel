@@ -1,0 +1,9 @@
+Official statistics are produced to provide trusted evidence for society and policy.
+Data quality includes accuracy, consistency, coherence, relevance, timeliness and accessibility.
+A sampling frame is a list or source that identifies the units from which a sample is selected.
+Probability sampling gives units in the target population a known probability of selection.
+Metadata explains the concepts, classifications, methods and quality information associated with a dataset.
+Data visualization communicates patterns and trends through clear charts, tables and dashboards.
+Responsible AI requires human oversight, accountability, transparency and attention to bias.
+Python and pandas are useful for cleaning, transforming and analysing statistical datasets.
+SQL supports structured data management through filtering, joins, grouping and aggregation.
